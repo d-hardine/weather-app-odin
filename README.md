@@ -1,2 +1,2 @@
-# restaurant-page-odin
-restaurant page for odin project
+# weather-app-odin
+Simple weather app using Visual Crossing API
